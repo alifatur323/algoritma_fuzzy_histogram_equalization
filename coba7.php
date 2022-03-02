@@ -1,0 +1,1 @@
+<?php include 'coba6.php'; ?>
